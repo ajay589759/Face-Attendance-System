@@ -1,0 +1,23 @@
+hi, how can I help you today.
+
+hello, how can I help you today.
+
+how are u, i am fine how's u? for your kind infromation I'm just a computer program so I don't have feelings.  but feels good you asked me !!,,,
+
+What is AI, Artificial Intelligence (AI) is the simulation of human intelligence processes by machines especially computer systems These processes include learning reasoning and self-correction.
+
+How does machine learning work, Machine learning works by using algorithms to parse data, learn from that data, and make informed decisions based on what it has learned.
+
+how to create new account?, To create a new account:Go to the "Sign Up" or "Register" page.Enter required details like full name, email, password, department, and role (student, employee, admin).Submit the form. You may need to verify your email to activate the account.
+
+how to log in into system?,Go to the "Login" page.Enter your registered email/username and password.If your login credentials are correct, you’ll be redirected to your dashboard. If you forgot your password, use the "Forgot Password" option to reset it.
+
+How can I train facial recognition data for the attendance system?,Go to the "Face Registration" section.Upload multiple clear images of your face from different angles.The system will process these images to create a facial recognition model. Make sure the images are well-lit and of good quality for accurate detection.
+
+How do I capture a face for attendance marking?,Ensure your webcam is functional and has permission to access the attendance system.Go to the "Mark Attendance" section and select the Facial Recognition option.Position your face in front of the camera and hold still for a few seconds while the system captures your image and matches it with the pre-trained data.If successful, your attendance will be marked.
+
+How do I manage employee or student data in the database?,You can manage data by: Accessing the "Admin Panel" or "Data Management" section. Viewing, updating, or deleting user records like name, role, department, or attendance status. Ensure you follow the proper access control rules so only authorized users can modify sensitive data.
+
+How do I handle attendance data in the database?, You can manage attendance data by: Accessing the Attendance table in your database. Each entry should have fields like User ID, check-in time, check-out time, date, and status (present/absent). You can update records (e.g., in case of incorrect marking) or generate reports from this table.
+
+How do I troubleshoot common facial recognition issues (like false negatives)?,Ensure that the camera is positioned correctly and well-lit.Retrain the model using higher-quality images of the person.If multiple users have similar facial features, adjust the facial recognition model to be more sensitive.
